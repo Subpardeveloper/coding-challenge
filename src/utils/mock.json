@@ -1,0 +1,1452 @@
+{
+    "20060096929-40": {
+        "username": "20060096929-40",
+        "client_name": "Raissa Weitzel",
+        "investment_value_in_ref_ccy": 535000,
+        "assets": [
+            {
+                "valor": 275639,
+                "weight": 0.04848824347,
+                "total_value_in_ref_ccy": 25941.2102606,
+                "asset_class": "Liquidity",
+                "geographical_region": "Other",
+                "name": "Client Account USD",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 3063121,
+                "weight": 0.8627300349666677,
+                "total_value_in_ref_ccy": 461560.56870716723,
+                "asset_class": "Fixed Income",
+                "geographical_region": "VG",
+                "name": "Shs LTrade Plus Ptg.Shs Class Plus (3063121)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 20550777,
+                "weight": 0.08878172155565682,
+                "total_value_in_ref_ccy": 47498.2210322764,
+                "asset_class": "Fixed Income",
+                "geographical_region": "LU",
+                "name": "Acc N1 Eu HY Bd Shs -HA-USD- Dist (20550777)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            }
+        ],
+        "investor_profile": "Investment Profile A"
+    },
+    "20090004190-1": {
+        "username": "20090004190-1",
+        "client_name": "Ing. Andrea Pohl",
+        "investment_value_in_ref_ccy": 536000,
+        "assets": [
+            {
+                "valor": 946681,
+                "weight": 0.18044290241737457,
+                "total_value_in_ref_ccy": 96717.39569571277,
+                "asset_class": "Liquidity",
+                "geographical_region": "Other",
+                "name": "Client Account EUR",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 13045827,
+                "weight": 0.501261153647609,
+                "total_value_in_ref_ccy": 268675.9783551184,
+                "asset_class": "Equity",
+                "geographical_region": "LU",
+                "name": "Shs Atrium P Sextan Shs -A USD- Cap (13045827)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 13045833,
+                "weight": 0.2255911539055756,
+                "total_value_in_ref_ccy": 120916.85849338853,
+                "asset_class": "Equity",
+                "geographical_region": "LU",
+                "name": "Shs Atrium P Octant Shs -A EUR- Cap (13045833)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 3477344,
+                "weight": 0.02,
+                "total_value_in_ref_ccy": 10720.0,
+                "asset_class": "Fixed Income",
+                "geographical_region": "LU",
+                "name": "Shs PWM2 A Cons E Shs -A- Cap (3477344)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            }
+        ],
+        "investor_profile": "Investment Profile A"
+    },
+    "20090004468-1": {
+        "username": "20090004468-1",
+        "client_name": "Walburga Ebert",
+        "investment_value_in_ref_ccy": 184000,
+        "assets": [
+            {
+                "valor": 946681,
+                "weight": 0.28101265862461794,
+                "total_value_in_ref_ccy": 51706.3291869297,
+                "asset_class": "Liquidity",
+                "geographical_region": "Other",
+                "name": "Client Account EUR",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 50000049,
+                "weight": 0.028724636665629202,
+                "total_value_in_ref_ccy": 5285.333146475773,
+                "asset_class": "Liquidity",
+                "geographical_region": "GB",
+                "name": "DCD EUR GBP .7109 5 16.12.2015",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 50000064,
+                "weight": 0.03211792298595437,
+                "total_value_in_ref_ccy": 5909.697829415603,
+                "asset_class": "Liquidity",
+                "geographical_region": "GB",
+                "name": "DCD EUR USD 1.12195 2 03.03.2016",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 21227831,
+                "weight": 0.09638500660920093,
+                "total_value_in_ref_ccy": 17734.841216092973,
+                "asset_class": "Fixed Income",
+                "geographical_region": "TR",
+                "name": "3.5% NTS Koc Holding AS 2013-24.4.20 Reg-S (21227831)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 29386357,
+                "weight": 0.12806287135321887,
+                "total_value_in_ref_ccy": 23563.56832899227,
+                "asset_class": "Equity",
+                "geographical_region": "GB",
+                "name": "GB00BZ5XKY24 3.5Y USD (GS) Lookback on S&P500 62%US dc barr 6m lookback 6.19",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            }
+        ],
+        "investor_profile": "Investment Profile B"
+    },
+    "20060036057-40": {
+        "username": "20060036057-40",
+        "client_name": "Hannah Albers B.Eng.",
+        "investment_value_in_ref_ccy": 194000,
+        "assets": [
+            {
+                "valor": 275639,
+                "weight": 0.90073246955,
+                "total_value_in_ref_ccy": 174742.099093,
+                "asset_class": "Liquidity",
+                "geographical_region": "Other",
+                "name": "Client Account USD",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 24397916,
+                "weight": 0.09926753044860484,
+                "total_value_in_ref_ccy": 19257.90090702934,
+                "asset_class": "Fixed Income",
+                "geographical_region": "NL",
+                "name": "2.375% NTS Volkswagen Fin Services NV 2014-13.11.18 Series F12/14 - 5 (24397916)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            }
+        ],
+        "investor_profile": "Investment Profile A"
+    },
+    "20060095654-40": {
+        "username": "20060095654-40",
+        "client_name": "Sigurd Rohleder",
+        "investment_value_in_ref_ccy": 188000,
+        "assets": [
+            {
+                "valor": 1845846,
+                "weight": 0.885637841073933,
+                "total_value_in_ref_ccy": 166499.9141218994,
+                "asset_class": "Alternatives",
+                "geographical_region": "KY",
+                "name": "Shs Weavering Ma Fi (1845846)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 50000062,
+                "weight": 0.04779477730978875,
+                "total_value_in_ref_ccy": 8985.418134240284,
+                "asset_class": "Liquidity",
+                "geographical_region": "GB",
+                "name": "Deposit Plus EUR USD 1.1125 2 03.03.2016",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 786422,
+                "weight": 0.032205222690211255,
+                "total_value_in_ref_ccy": 6054.581865759716,
+                "asset_class": "Liquidity",
+                "geographical_region": "LU",
+                "name": "Uts  FRN USD Dist (786422)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 18313016,
+                "weight": 0.02,
+                "total_value_in_ref_ccy": 3760.0,
+                "asset_class": "Fixed Income",
+                "geographical_region": "LU",
+                "name": "Shs SKY HGl US SDHY Shs -F EUR hedged- Cap (18313016)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            }
+        ],
+        "investor_profile": "Investment Profile A"
+    },
+    "20090009355-2": {
+        "username": "20090009355-2",
+        "client_name": "Heinz-Josef Z\u00e4nker B.Eng.",
+        "investment_value_in_ref_ccy": 898000,
+        "assets": [
+            {
+                "valor": 99903,
+                "weight": 0.01739018494689782,
+                "total_value_in_ref_ccy": 15616.386082314242,
+                "asset_class": "Equity",
+                "geographical_region": "PK",
+                "name": "Reg Shs Atlas Insurance Ltd PKR 10 (99903)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 99908,
+                "weight": 0.02228601442861424,
+                "total_value_in_ref_ccy": 20012.84095689559,
+                "asset_class": "Equity",
+                "geographical_region": "PK",
+                "name": "Acc Nom IGI Insurance Ltd PKR 10 (99908)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 100809,
+                "weight": 0.01576940513085407,
+                "total_value_in_ref_ccy": 14160.925807506956,
+                "asset_class": "Equity",
+                "geographical_region": "PK",
+                "name": "Reg Shs Habib Sugar Mills Ltd PKR 5 (100809)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 116542,
+                "weight": 0.020970595417905184,
+                "total_value_in_ref_ccy": 18831.594685278855,
+                "asset_class": "Equity",
+                "geographical_region": "PK",
+                "name": "Reg Shs Habib Metropolitan Bank Ltd PKR 10 (116542)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 256806,
+                "weight": 0.031919591302720325,
+                "total_value_in_ref_ccy": 28663.792989842852,
+                "asset_class": "Equity",
+                "geographical_region": "CN",
+                "name": "Reg Shs Qingling Motors Co Ltd CNY 1 (256806)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 384315,
+                "weight": 0.01874584623192358,
+                "total_value_in_ref_ccy": 16833.769916267374,
+                "asset_class": "Equity",
+                "geographical_region": "PH",
+                "name": "Reg Shs House of Investments, Inc. PHP 1.5 (384315)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 421067,
+                "weight": 0.023221502452932977,
+                "total_value_in_ref_ccy": 20852.909202733812,
+                "asset_class": "Equity",
+                "geographical_region": "HK",
+                "name": "Reg Shs Goldlion Holdings Ltd (421067)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 421190,
+                "weight": 0.02020244104312174,
+                "total_value_in_ref_ccy": 18141.792056723323,
+                "asset_class": "Equity",
+                "geographical_region": "HK",
+                "name": "Reg Shs Hong Kong Ferry (Holdings) Co Ltd (421190)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 421343,
+                "weight": 0.015089986925270143,
+                "total_value_in_ref_ccy": 13550.808258892588,
+                "asset_class": "Equity",
+                "geographical_region": "HK",
+                "name": "Reg Shs Keck Seng Investments (Hong Kong) Ltd (421343)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 540040,
+                "weight": 0.016166663990804176,
+                "total_value_in_ref_ccy": 14517.66426374215,
+                "asset_class": "Equity",
+                "geographical_region": "JP",
+                "name": "Acc Nom Nansin Co Ltd (540040)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 619274,
+                "weight": 0.015660722602082004,
+                "total_value_in_ref_ccy": 14063.32889666964,
+                "asset_class": "Equity",
+                "geographical_region": "SG",
+                "name": "Reg Shs Serial System Ltd (619274)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 647712,
+                "weight": 0.017874970832931113,
+                "total_value_in_ref_ccy": 16051.72380797214,
+                "asset_class": "Equity",
+                "geographical_region": "BM",
+                "name": "Reg Shs Allan International Holdings Ltd HKD 0.1 (647712)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 823062,
+                "weight": 0.010534047352973966,
+                "total_value_in_ref_ccy": 9459.57452297062,
+                "asset_class": "Equity",
+                "geographical_region": "IL",
+                "name": "Reg Shs Willy Food Investments Ltd ILS 1 (823062)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 908440,
+                "weight": 0.021762864332868063,
+                "total_value_in_ref_ccy": 19543.052170915522,
+                "asset_class": "Equity",
+                "geographical_region": "Other",
+                "name": "Acc Nom Apple Inc USD 0.00001 (908440)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 935700,
+                "weight": 0.020703998692214537,
+                "total_value_in_ref_ccy": 18592.190825608654,
+                "asset_class": "Equity",
+                "geographical_region": "Other",
+                "name": "Reg Shs Gilead Sciences Inc USD 0.001 (935700)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 966583,
+                "weight": 0.048124479151539695,
+                "total_value_in_ref_ccy": 43215.78227808265,
+                "asset_class": "Equity",
+                "geographical_region": "SG",
+                "name": "Reg Shs Spindex Industries Ltd (966583)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 1065459,
+                "weight": 0.06432560292671571,
+                "total_value_in_ref_ccy": 57764.39142819071,
+                "asset_class": "Equity",
+                "geographical_region": "MY",
+                "name": "Reg Shs Lii Hen Industries Bhd MYR 0.5 (1065459)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 1068480,
+                "weight": 0.011491052678312859,
+                "total_value_in_ref_ccy": 10318.965305124948,
+                "asset_class": "Equity",
+                "geographical_region": "BM",
+                "name": "Reg Shs Fujikon Industrial Holdings Ltd HKD 0.1 (1068480)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 1115012,
+                "weight": 6.530167271757086e-05,
+                "total_value_in_ref_ccy": 58.64090210037863,
+                "asset_class": "Equity",
+                "geographical_region": "IL",
+                "name": "Acc Nom Mind CTI Ltd ILS 0.01 (1115012)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 1190962,
+                "weight": 0.013300474709375622,
+                "total_value_in_ref_ccy": 11943.82628901931,
+                "asset_class": "Equity",
+                "geographical_region": "ID",
+                "name": "Acc Nom PT Astra Graphia Tbk IDR 100 (1190962)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 1256968,
+                "weight": 0.003226822174200945,
+                "total_value_in_ref_ccy": 2897.6863124324486,
+                "asset_class": "Equity",
+                "geographical_region": "EG",
+                "name": "Reg Shs Egyptian Satellite Co USD 5 (1256968)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 1358569,
+                "weight": 0.0115615177046183,
+                "total_value_in_ref_ccy": 10382.242898747234,
+                "asset_class": "Equity",
+                "geographical_region": "KR",
+                "name": "Reg Shs KOREA COMPUTER INC KRW 500 (1358569)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 1482768,
+                "weight": 0.014164318753128315,
+                "total_value_in_ref_ccy": 12719.558240309227,
+                "asset_class": "Equity",
+                "geographical_region": "BM",
+                "name": "Reg Shs Suga International Holdings Ltd HKD 0.1 (1482768)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 1547420,
+                "weight": 0.0018387285247986533,
+                "total_value_in_ref_ccy": 1651.1782152691906,
+                "asset_class": "Equity",
+                "geographical_region": "EG",
+                "name": "Shs Alexandria Containers and Goods EGP 5 (1547420)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 1645422,
+                "weight": 0.004848023574966818,
+                "total_value_in_ref_ccy": 4353.525170320203,
+                "asset_class": "Equity",
+                "geographical_region": "EG",
+                "name": "Shs Nozha International Hospital EGP 6 (1645422)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 1895799,
+                "weight": 0.0018545284185552781,
+                "total_value_in_ref_ccy": 1665.3665198626397,
+                "asset_class": "Equity",
+                "geographical_region": "KY",
+                "name": "Reg Shs Luen Thai Holdings Ltd USD 0.01 (1895799)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 2097785,
+                "weight": 0.0003238047323132695,
+                "total_value_in_ref_ccy": 290.776649617316,
+                "asset_class": "Equity",
+                "geographical_region": "PK",
+                "name": "Reg Shs Attock Petroleum Ltd PKR 10 (2097785)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 2252677,
+                "weight": 0.04314323639327021,
+                "total_value_in_ref_ccy": 38742.62628115665,
+                "asset_class": "Equity",
+                "geographical_region": "PK",
+                "name": "Reg Shs MCB-Arif Habib Savings and Investments Ltd PKR 10 (2252677)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 2318407,
+                "weight": 0.024711960686195068,
+                "total_value_in_ref_ccy": 22191.34069620317,
+                "asset_class": "Equity",
+                "geographical_region": "BD",
+                "name": "Reg Shs Beximco Pharmaceuticals Ltd BDT 10 GDS (2318407)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 2424065,
+                "weight": 0.01778852213158943,
+                "total_value_in_ref_ccy": 15974.092874167309,
+                "asset_class": "Equity",
+                "geographical_region": "KY",
+                "name": "Reg Shs Yorkey Optical International (Cayman) Ltd HKD 0.01 (2424065)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 2680245,
+                "weight": 0.03534296729065765,
+                "total_value_in_ref_ccy": 31737.984627010566,
+                "asset_class": "Equity",
+                "geographical_region": "BM",
+                "name": "Reg Shs Chinney Alliance Group Ltd HKD 0.1 (2680245)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 3502674,
+                "weight": 0.00927663125876509,
+                "total_value_in_ref_ccy": 8330.41487037105,
+                "asset_class": "Equity",
+                "geographical_region": "KY",
+                "name": "Reg Shs Ming Fai International Holdings Ltd HKD 0.01 (3502674)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 3536873,
+                "weight": 0.011897753235299685,
+                "total_value_in_ref_ccy": 10684.182405299116,
+                "asset_class": "Equity",
+                "geographical_region": "AU",
+                "name": "Reg Shs Saunders International Ltd (3536873)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 3636962,
+                "weight": 0.016718696347418887,
+                "total_value_in_ref_ccy": 15013.389319982161,
+                "asset_class": "Equity",
+                "geographical_region": "KR",
+                "name": "Reg Shs ECS TELECOM Co Ltd KRW 500 (3636962)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 3948103,
+                "weight": 0.01335218610072436,
+                "total_value_in_ref_ccy": 11990.263118450475,
+                "asset_class": "Equity",
+                "geographical_region": "SG",
+                "name": "Acc Nom Low Keng Huat Singapore Ltd (3948103)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 3998445,
+                "weight": 0.006544405819080534,
+                "total_value_in_ref_ccy": 5876.876425534319,
+                "asset_class": "Equity",
+                "geographical_region": "CY",
+                "name": "Reg Shs Globaltrans Investment Plc USD 0.1 GDS (3998445)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 4225823,
+                "weight": 0.02359097167674035,
+                "total_value_in_ref_ccy": 21184.692565712834,
+                "asset_class": "Equity",
+                "geographical_region": "BM",
+                "name": "Acc Nom Future Bright Holdings Ltd HKD 0.1 (4225823)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 4250492,
+                "weight": 0.007826474088644021,
+                "total_value_in_ref_ccy": 7028.173731602331,
+                "asset_class": "Equity",
+                "geographical_region": "IM",
+                "name": "Reg Shs Argo Group Limited USD 0.01 (4250492)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 12844166,
+                "weight": 0.026535819875474237,
+                "total_value_in_ref_ccy": 23829.166248175865,
+                "asset_class": "Equity",
+                "geographical_region": "KY",
+                "name": "Reg Shs Tang Palace (China) Holdings Ltd HKD 0.1 (12844166)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 12894956,
+                "weight": 0.010460316166021765,
+                "total_value_in_ref_ccy": 9393.363917087545,
+                "asset_class": "Equity",
+                "geographical_region": "HK",
+                "name": "Reg Shs Welling Holding Ltd (12894956)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 13228088,
+                "weight": 0.03218968252086894,
+                "total_value_in_ref_ccy": 28906.33490374031,
+                "asset_class": "Equity",
+                "geographical_region": "BM",
+                "name": "Reg Shs 1010 Printing Group Ltd HKD 0.01 (13228088)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 18218463,
+                "weight": 0.020671925416332473,
+                "total_value_in_ref_ccy": 18563.38902386656,
+                "asset_class": "Equity",
+                "geographical_region": "KY",
+                "name": "Reg Shs Wonderful Sky Financial Group Holdings Ltd HKD 0.01 (18218463)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 19670023,
+                "weight": 0.029284229719604187,
+                "total_value_in_ref_ccy": 26297.23828820456,
+                "asset_class": "Equity",
+                "geographical_region": "KY",
+                "name": "Reg Shs Rykadan Capital Ltd HKD 0.01 (19670023)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 20515942,
+                "weight": 0.020875412603934766,
+                "total_value_in_ref_ccy": 18746.12051833342,
+                "asset_class": "Equity",
+                "geographical_region": "KY",
+                "name": "Reg Shs Time Watch Investments Ltd HKD 0.1 (20515942)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 25058435,
+                "weight": 0.019859730797329913,
+                "total_value_in_ref_ccy": 17834.038256002263,
+                "asset_class": "Alternatives",
+                "geographical_region": "GG",
+                "name": "Shs Per Squ Hol Accum.Shs Public Class USD (25058435)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 3897634,
+                "weight": 0.04382998708347522,
+                "total_value_in_ref_ccy": 39359.328400960745,
+                "asset_class": "Liquidity",
+                "geographical_region": "LU",
+                "name": "Shs dbxt2 EONIA Shs -1D- Dist (3897634)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 28318614,
+                "weight": 0.10159830119616353,
+                "total_value_in_ref_ccy": 91235.27447415485,
+                "asset_class": "Fixed Income",
+                "geographical_region": "GG",
+                "name": "3% EMTN Credit Suisse Grp Funding (Gue) Ltd 2015-27.5.22 Reg-S Series (28318614)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            }
+        ],
+        "investor_profile": "Investment Profile A"
+    },
+    "20060034945-40": {
+        "username": "20060034945-40",
+        "client_name": "Dr. Saskia Striebitz",
+        "investment_value_in_ref_ccy": 441000,
+        "assets": [
+            {
+                "valor": 12520445,
+                "weight": 0.7967949151703193,
+                "total_value_in_ref_ccy": 351386.5575901108,
+                "asset_class": "Fixed Income",
+                "geographical_region": "Other",
+                "name": "12.75% NTS Petroleos De Venezuela SA PDVSA 2011-17.2.22 Gtd Sr Reg S (12520445)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 30634254,
+                "weight": 0.1832050848296808,
+                "total_value_in_ref_ccy": 80793.44240988923,
+                "asset_class": "Fixed Income",
+                "geographical_region": "AT",
+                "name": "5.25% NTS OMV AG 2015-Without Fixed Maturity Variable Rate Reg-S (30634254)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 25527376,
+                "weight": 0.02,
+                "total_value_in_ref_ccy": 8820.0,
+                "asset_class": "Fixed Income",
+                "geographical_region": "Other",
+                "name": "2.875% NTS Roche Holdings Inc 2014-29.9.21 Sr Reg S (25527376)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            }
+        ],
+        "investor_profile": "Investment Profile A"
+    },
+    "20090000846-1": {
+        "username": "20090000846-1",
+        "client_name": "Dr. Vitus Drewes B.Eng.",
+        "investment_value_in_ref_ccy": 662000,
+        "assets": [
+            {
+                "valor": 20137014,
+                "weight": 0.11296427123407571,
+                "total_value_in_ref_ccy": 74782.34755695812,
+                "asset_class": "Fixed Income",
+                "geographical_region": "MN",
+                "name": "4.125% MTN Government of Mongolia 2012-5.1.18 Tranche 1 Reg S (20137014)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 24954487,
+                "weight": 0.13680391419211027,
+                "total_value_in_ref_ccy": 90564.191195177,
+                "asset_class": "Fixed Income",
+                "geographical_region": "MX",
+                "name": "6.25% NTS UNIFIN Financiera SAB de CV SOFOM ENR 2014-22.7.19 Gtd Sr R (24954487)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 26162352,
+                "weight": 0.2568984567605252,
+                "total_value_in_ref_ccy": 170066.7783754677,
+                "asset_class": "Fixed Income",
+                "geographical_region": "MX",
+                "name": "4.875% NTS Gruma SAB de CV 2014-1.12.24 Sr Reg S (26162352)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 10912828,
+                "weight": 0.255373004355289,
+                "total_value_in_ref_ccy": 169056.9288832013,
+                "asset_class": "Fixed Income",
+                "geographical_region": "LU",
+                "name": "7.5% NTS HeidelbergCement Finance Luxembourg S.A. 2010-3.4.20 Reg-S (10912828)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 28347367,
+                "weight": 0.16764588655729704,
+                "total_value_in_ref_ccy": 110981.57690093064,
+                "asset_class": "Equity",
+                "geographical_region": "LU",
+                "name": "CH0283473673 1Y USD (SG) Speeder CS PRU HSBC 9.4%p.a. cpn 65% US dc barr 12.16",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            }
+        ],
+        "investor_profile": "Investment Profile D"
+    },
+    "20090009052-1": {
+        "username": "20090009052-1",
+        "client_name": "Valentin Dehmel",
+        "investment_value_in_ref_ccy": 498000,
+        "assets": [
+            {
+                "valor": 275639,
+                "weight": 0.11612013750201199,
+                "total_value_in_ref_ccy": 57827.82847600197,
+                "asset_class": "Liquidity",
+                "geographical_region": "Other",
+                "name": "Client Account USD",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 1098758,
+                "weight": 0.02203883284592237,
+                "total_value_in_ref_ccy": 10975.338757269341,
+                "asset_class": "Equity",
+                "geographical_region": "FR",
+                "name": "Shs Veolia Environnement SA EUR 5 (1098758)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 2300715,
+                "weight": 0.42371619483480555,
+                "total_value_in_ref_ccy": 211010.66502773316,
+                "asset_class": "Equity",
+                "geographical_region": "MH",
+                "name": "Reg Shs Stealthgas Inc (2300715)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 2613979,
+                "weight": 0.015189125120168585,
+                "total_value_in_ref_ccy": 7564.184309843955,
+                "asset_class": "Equity",
+                "geographical_region": "RU",
+                "name": "Reg Shs Rosneft Oil Company RUB 0.01 GDS (2613979)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 32973051,
+                "weight": 0.0025796707245633057,
+                "total_value_in_ref_ccy": 1284.6760208325263,
+                "asset_class": "Equity",
+                "geographical_region": "MH",
+                "name": "Reg Shs Star Bulk Carriers Corp USD 0.01 (32973051)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 844183,
+                "weight": 0.05357934410991404,
+                "total_value_in_ref_ccy": 26682.513366737192,
+                "asset_class": "Equity",
+                "geographical_region": "GB",
+                "name": "Reg Shs BP PLC USD 0.25 (844183)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 50000009,
+                "weight": 0.07,
+                "total_value_in_ref_ccy": 34860.0,
+                "asset_class": "Liquidity",
+                "geographical_region": "GB",
+                "name": "DCI EUR/USD 1.1331 2.5% 27.08.2015",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 29792895,
+                "weight": 0.2968,
+                "total_value_in_ref_ccy": 147794.79,
+                "asset_class": "Fixed Income",
+                "geographical_region": "JE",
+                "name": "2.95% NTS UBS Group Funding (Jersey) Limited 2015-24.9.20 Reg S (29792895)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            }
+        ],
+        "investor_profile": "Investment Profile C"
+    },
+    "20090004517-1": {
+        "username": "20090004517-1",
+        "client_name": "Ivan R\u00f6hricht",
+        "investment_value_in_ref_ccy": 114000,
+        "assets": [
+            {
+                "valor": 946681,
+                "weight": 0.6661330821132931,
+                "total_value_in_ref_ccy": 75939.17136091542,
+                "asset_class": "Liquidity",
+                "geographical_region": "Other",
+                "name": "Client Account EUR",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 50000020,
+                "weight": 0.062413977429331954,
+                "total_value_in_ref_ccy": 7115.1934269438425,
+                "asset_class": "Liquidity",
+                "geographical_region": "GB",
+                "name": "DCD EUR GBP .6968 5 30.11.2015",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 24659182,
+                "weight": 0.07758602257066806,
+                "total_value_in_ref_ccy": 8844.80657305616,
+                "asset_class": "Fixed Income",
+                "geographical_region": "Other",
+                "name": "5.875% NTS NCR Corp 2014-15.12.21 Gtd Sr (24659182)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            }
+        ],
+        "investor_profile": "Investment Profile B"
+    },
+    "20060050633-3": {
+        "username": "20060050633-3",
+        "client_name": "Frederic Wiek",
+        "investment_value_in_ref_ccy": 664000,
+        "assets": [
+            {
+                "valor": 275017,
+                "weight": 0.89329740123,
+                "total_value_in_ref_ccy": 593149.474418,
+                "asset_class": "Liquidity",
+                "geographical_region": "GB",
+                "name": "Client Account GBP",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 50000060,
+                "weight": 0.03202266838933666,
+                "total_value_in_ref_ccy": 21263.05181051954,
+                "asset_class": "Liquidity",
+                "geographical_region": "GB",
+                "name": "Deposit Plus USD CHF 1.00705 3 02.03.2016",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 24422462,
+                "weight": 0.07467993037808054,
+                "total_value_in_ref_ccy": 49587.47377104548,
+                "asset_class": "Fixed Income",
+                "geographical_region": "ES",
+                "name": "6.375% NTS Banco Santander SA 14-Without Fix Mat Var Rt Jr Reg-S Sub (24422462)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            }
+        ],
+        "investor_profile": "Investment Profile A"
+    },
+    "20090004496-1": {
+        "username": "20090004496-1",
+        "client_name": "Henner Linke",
+        "investment_value_in_ref_ccy": 201000,
+        "assets": [
+            {
+                "valor": 275639,
+                "weight": 0.9015,
+                "total_value_in_ref_ccy": 181201.5,
+                "asset_class": "Liquidity",
+                "geographical_region": "Other",
+                "name": "Client Account USD",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 50000008,
+                "weight": 0.04409845799705645,
+                "total_value_in_ref_ccy": 8863.790057408347,
+                "asset_class": "Liquidity",
+                "geographical_region": "GB",
+                "name": "DCI EUR/USD 1.08425 4 % 27.08.2015",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 22457352,
+                "weight": 0.0543796205673825,
+                "total_value_in_ref_ccy": 10930.303734043882,
+                "asset_class": "Fixed Income",
+                "geographical_region": "MX",
+                "name": "7.25% NTS Cemex SAB de CV 2013-15.1.21 Sr Reg S (22457352)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            }
+        ],
+        "investor_profile": "Investment Profile A"
+    },
+    "20060033013-40": {
+        "username": "20060033013-40",
+        "client_name": "Prof. Dorle Biggen",
+        "investment_value_in_ref_ccy": 608000,
+        "assets": [
+            {
+                "valor": 275639,
+                "weight": 0.8515912211662874,
+                "total_value_in_ref_ccy": 517767.46246910276,
+                "asset_class": "Liquidity",
+                "geographical_region": "Other",
+                "name": "Client Account USD",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 25932394,
+                "weight": 0.06840877883371259,
+                "total_value_in_ref_ccy": 41592.53753089725,
+                "asset_class": "Fixed Income",
+                "geographical_region": "PE",
+                "name": "5.875% NTS Union Andina de Cementos SAA 2014-30.10.21 Sr Reg S (25932394)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 50000058,
+                "weight": 0.08,
+                "total_value_in_ref_ccy": 48640.0,
+                "asset_class": "Liquidity",
+                "geographical_region": "GB",
+                "name": "DCD EUR USD 1.13 2.3 02.05.2016",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            }
+        ],
+        "investor_profile": "Investment Profile A"
+    },
+    "20060032157-40": {
+        "username": "20060032157-40",
+        "client_name": "Prof. Gordana Karz",
+        "investment_value_in_ref_ccy": 136000,
+        "assets": [
+            {
+                "valor": 275639,
+                "weight": 0.23529116840308567,
+                "total_value_in_ref_ccy": 31999.598902819653,
+                "asset_class": "Liquidity",
+                "geographical_region": "Other",
+                "name": "Client Account USD",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 10608422,
+                "weight": 0.33182930732141747,
+                "total_value_in_ref_ccy": 45128.78579571278,
+                "asset_class": "Fixed Income",
+                "geographical_region": "IE",
+                "name": "Shs iShs Eur Crp Bd ETF EUR (10608422)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 4787317,
+                "weight": 0.07333115025030121,
+                "total_value_in_ref_ccy": 9973.036434040965,
+                "asset_class": "Fixed Income",
+                "geographical_region": "LU",
+                "name": "Shs AWF Gl Inf Bd Shs A-CHF hedged (95%) Cap (4787317)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 22494992,
+                "weight": 0.019257205622110196,
+                "total_value_in_ref_ccy": 2618.979964606987,
+                "asset_class": "Equity",
+                "geographical_region": "LU",
+                "name": "Shs Aberd Jap Eq Shs I-2 Base Ccy Exp USD Cap (22494992)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 3980558,
+                "weight": 0.02,
+                "total_value_in_ref_ccy": 2720.0,
+                "asset_class": "Equity",
+                "geographical_region": "GB",
+                "name": "Shs FS Stew As Lead Accum.Shs Class -B- EUR (3980558)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 4825920,
+                "weight": 0.02,
+                "total_value_in_ref_ccy": 2720.0,
+                "asset_class": "Fixed Income",
+                "geographical_region": "LU",
+                "name": "Shs N1 Eu HY Bd Shs -HB SEK- Cap (4825920)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            }
+        ],
+        "investor_profile": "Investment Profile C"
+    },
+    "20090001104-1": {
+        "username": "20090001104-1",
+        "client_name": "Hans Dieter Kruschwitz",
+        "investment_value_in_ref_ccy": 337000,
+        "assets": [
+            {
+                "valor": 50000021,
+                "weight": 0.0629765754752151,
+                "total_value_in_ref_ccy": 21223.105935147487,
+                "asset_class": "Liquidity",
+                "geographical_region": "GB",
+                "name": "DCD EUR GBP .69755 5 23.11.2015",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 26829252,
+                "weight": 0.3472389109116745,
+                "total_value_in_ref_ccy": 117019.51297723432,
+                "asset_class": "Equity",
+                "geographical_region": "GB",
+                "name": "CH0268292528 2Y USD BARC Speeder SX5E and SPX, 55% DC, 5%pa. 5.17",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            }
+        ],
+        "investor_profile": "Investment Profile E"
+    },
+    "20060029412-40": {
+        "username": "20060029412-40",
+        "client_name": "Dr. Iwan Schlosser MBA.",
+        "investment_value_in_ref_ccy": 568000,
+        "assets": [
+            {
+                "valor": 946681,
+                "weight": 0.18165140423948367,
+                "total_value_in_ref_ccy": 103177.99760802672,
+                "asset_class": "Liquidity",
+                "geographical_region": "Other",
+                "name": "Client Account EUR",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 14785666,
+                "weight": 0.0129329172306787,
+                "total_value_in_ref_ccy": 7345.896987025502,
+                "asset_class": "Fixed Income",
+                "geographical_region": "AU",
+                "name": "4.875% NTS Coca-Cola Amatil Ltd 2012-1.2.17 Reg-S Series 45 (14785666)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 18240728,
+                "weight": 0.020650206472685437,
+                "total_value_in_ref_ccy": 11729.317276485328,
+                "asset_class": "Fixed Income",
+                "geographical_region": "DE",
+                "name": "4.625% NTS Otto (GmbH & Co KG) 2012-29.9.17 (18240728)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 21479462,
+                "weight": 0.01758680784840163,
+                "total_value_in_ref_ccy": 9989.306857892125,
+                "asset_class": "Fixed Income",
+                "geographical_region": "AU",
+                "name": "4.375% NTS Coca-Cola Amatil Ltd 2013-4.6.20 Reg-S Series 49 (21479462)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 24124159,
+                "weight": 0.010807216814688343,
+                "total_value_in_ref_ccy": 6138.499150742979,
+                "asset_class": "Fixed Income",
+                "geographical_region": "CA",
+                "name": "4.75% NTS Bombardier Inc 2014-15.4.19 Sr Reg S (24124159)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 20137014,
+                "weight": 0.22635718772354307,
+                "total_value_in_ref_ccy": 128570.88262697247,
+                "asset_class": "Fixed Income",
+                "geographical_region": "MN",
+                "name": "4.125% MTN Government of Mongolia 2012-5.1.18 Tranche 1 Reg S (20137014)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 32276944,
+                "weight": 0.02620418438808035,
+                "total_value_in_ref_ccy": 14883.976732429639,
+                "asset_class": "Fixed Income",
+                "geographical_region": "GG",
+                "name": "3.45% NTS Credit Suisse Grp Funding (Gue) Ltd 2016-16.04.21 Gtd Reg S (32276944)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 32332646,
+                "weight": 0.03156841938827318,
+                "total_value_in_ref_ccy": 17930.862212539167,
+                "asset_class": "Fixed Income",
+                "geographical_region": "LU",
+                "name": "CH0323326469 1Y USD (SG) Autocallable BRC WO SPX SX5E 6%pacpn 60%USdcbarr 5.17",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 25033356,
+                "weight": 0.16172755207806586,
+                "total_value_in_ref_ccy": 91861.2495803414,
+                "asset_class": "Fixed Income",
+                "geographical_region": "GB",
+                "name": "2.75% NTS Reed Elsevier (Investments) PLC 2014-1.8.19 Reg-S Senior (25033356)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 21300422,
+                "weight": 0.02,
+                "total_value_in_ref_ccy": 11360.0,
+                "asset_class": "Fixed Income",
+                "geographical_region": "KY",
+                "name": "4.25% NTS Batelco International Finance No. 1 Ltd 2013-1.5.20 Reg-S (21300422)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 31576632,
+                "weight": 0.17088116939683679,
+                "total_value_in_ref_ccy": 97060.5042174033,
+                "asset_class": "Equity",
+                "geographical_region": "FR",
+                "name": "8.35% NTS CREDIT AGRICOLE CIB FINANCIAL SOLUTIONS 16-1.7.19 Guarant S (31576632)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            }
+        ],
+        "investor_profile": "Investment Profile C"
+    },
+    "20090002554-1": {
+        "username": "20090002554-1",
+        "client_name": "Milena Scheuermann",
+        "investment_value_in_ref_ccy": 881000,
+        "assets": [
+            {
+                "valor": 12943664,
+                "weight": 0.4915137844325272,
+                "total_value_in_ref_ccy": 433023.64408505644,
+                "asset_class": "Alternatives",
+                "geographical_region": "LU",
+                "name": "Shs S Lif IG GARS Shs -A-USD Hedged- Cap (12943664)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 28347367,
+                "weight": 0.11323608770779697,
+                "total_value_in_ref_ccy": 99760.99327056913,
+                "asset_class": "Equity",
+                "geographical_region": "LU",
+                "name": "CH0283473673 1Y USD (SG) Speeder CS PRU HSBC 9.4%p.a. cpn 65% US dc barr 12.16",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 14650332,
+                "weight": 0.02,
+                "total_value_in_ref_ccy": 17620.0,
+                "asset_class": "Fixed Income",
+                "geographical_region": "LU",
+                "name": "7.5% GLN Intelsat Jackson Holdings SA 2012-1.4.21 Sr Global (14650332)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            }
+        ],
+        "investor_profile": "Investment Profile C"
+    },
+    "20060095976-40": {
+        "username": "20060095976-40",
+        "client_name": "Reimer Walter",
+        "investment_value_in_ref_ccy": 525000,
+        "assets": [
+            {
+                "valor": 946681,
+                "weight": 0.2113605310285212,
+                "total_value_in_ref_ccy": 110964.27878997363,
+                "asset_class": "Liquidity",
+                "geographical_region": "Other",
+                "name": "Client Account EUR",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 4334819,
+                "weight": 0.015842883126280963,
+                "total_value_in_ref_ccy": 8317.513641297506,
+                "asset_class": "Equity",
+                "geographical_region": "DE",
+                "name": "Acc Nom E.ON SE (4334819)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 50000028,
+                "weight": 0.0611157689469721,
+                "total_value_in_ref_ccy": 32085.778697160353,
+                "asset_class": "Liquidity",
+                "geographical_region": "GB",
+                "name": "DCD EUR SGD 1.56 2.75 17.12.2015",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 332902,
+                "weight": 0.10346438577513672,
+                "total_value_in_ref_ccy": 54318.80253194678,
+                "asset_class": "Equity",
+                "geographical_region": "DE",
+                "name": "Shs Fresenius SE & Co. KGaA (332902)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 50000059,
+                "weight": 0.07,
+                "total_value_in_ref_ccy": 36750.0,
+                "asset_class": "Liquidity",
+                "geographical_region": "GB",
+                "name": "Deposit Plus USD CHF 1.0123 5 02.03.2016",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 1987674,
+                "weight": 0.08828853353715249,
+                "total_value_in_ref_ccy": 46351.48010700506,
+                "asset_class": "Equity",
+                "geographical_region": "NL",
+                "name": "Reg Shs Royal Dutch Shell PLC-A- EUR0.07 (1987674)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 23448739,
+                "weight": 0.19960092932517737,
+                "total_value_in_ref_ccy": 104790.48789571812,
+                "asset_class": "Fixed Income",
+                "geographical_region": "IN",
+                "name": "3% NTS Bharat Petroleum Corp Ltd 2014-20.12.19 (23448739)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            }
+        ],
+        "investor_profile": "Investment Profile B"
+    },
+    "20060046163-46": {
+        "username": "20060046163-46",
+        "client_name": "Edda Zobel-Geisler",
+        "investment_value_in_ref_ccy": 102000,
+        "assets": [
+            {
+                "valor": 275639,
+                "weight": 0.48389835719906643,
+                "total_value_in_ref_ccy": 49357.632434304775,
+                "asset_class": "Liquidity",
+                "geographical_region": "Other",
+                "name": "Client Account USD",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 1064593,
+                "weight": 0.21771279161425017,
+                "total_value_in_ref_ccy": 22206.704744653518,
+                "asset_class": "Equity",
+                "geographical_region": "CH",
+                "name": "Acc Nom Givaudan AG CHF 10 (1064593)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 32013907,
+                "weight": 0.13911827698430773,
+                "total_value_in_ref_ccy": 14190.064252399388,
+                "asset_class": "Fixed Income",
+                "geographical_region": "GB",
+                "name": "XS0461380742 5Y USD () Floating Rate Note 3mL 2.3% floor 4.5% cap 4.21",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 50000051,
+                "weight": 0.06,
+                "total_value_in_ref_ccy": 6120.0,
+                "asset_class": "Liquidity",
+                "geographical_region": "GB",
+                "name": "DCD EUR USD 1.1275 1 23.12.2015",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            }
+        ],
+        "investor_profile": "Investment Profile C"
+    },
+    "20060094501-40": {
+        "username": "20060094501-40",
+        "client_name": "Stefani Mende",
+        "investment_value_in_ref_ccy": 338000,
+        "assets": [
+            {
+                "valor": 275639,
+                "weight": 0.90440048702,
+                "total_value_in_ref_ccy": 305687.364615,
+                "asset_class": "Liquidity",
+                "geographical_region": "Other",
+                "name": "Client Account USD",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 50000013,
+                "weight": 0.02,
+                "total_value_in_ref_ccy": 6760.0,
+                "asset_class": "Liquidity",
+                "geographical_region": "GB",
+                "name": "DCI EUR/USD 1.067 3% 26.08.2015",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            },
+            {
+                "valor": 21326642,
+                "weight": 0.0755995129739482,
+                "total_value_in_ref_ccy": 25552.635385194488,
+                "asset_class": "Fixed Income",
+                "geographical_region": "LU",
+                "name": "6.5% NTS INEOS Group Holdings SA 13-15.8.18 RegS Call R.24.08.16-101. (21326642)",
+                "amount": 0.0,
+                "logo": "tbd.png"
+            }
+        ],
+        "investor_profile": "Investment Profile A"
+    }
+}

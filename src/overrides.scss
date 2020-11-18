@@ -1,0 +1,20 @@
+$boxShadow: 3px 3px 10px #cfcfcf;
+$zIndex: 2;
+$borderRadius: 10px;
+$backgroundColor: #fff;
+$width: 60%;
+
+.p-panelmenu {
+  box-shadow: $boxShadow;
+  z-index: $zIndex;
+}
+
+.p-menubar {
+  box-shadow: $boxShadow;
+  border-radius: $borderRadius;
+  background-color: $backgroundColor;
+}
+
+.p-progressbar {
+  width: $width;
+}
