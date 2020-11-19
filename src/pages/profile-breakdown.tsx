@@ -8,6 +8,7 @@ import useSWR from "swr";
 import { fetcher } from "../utils/fetcher";
 import { calculateTotalWealth } from "../utils/helpers";
 import { ProgressBar } from "primereact/progressbar";
+import { ProgressSpinner } from "primereact/progressspinner";
 
 const Wrapper = styled.div`
   display: flex;
@@ -75,7 +76,8 @@ const ChartWrapper = styled.div`
 const ProgressDiv = styled.div`
   display: flex;
   justify-content: center;
-  height: 6px;
+  align-content: center;
+  min-height: 28rem;
 `;
 
 const ProfileBreakdown: FC = () => {
@@ -100,7 +102,7 @@ const ProfileBreakdown: FC = () => {
       <ChartWrapper>
         {!error && !portfolio && (
           <ProgressDiv>
-            <ProgressBar mode="indeterminate" style={{ height: "6px" }} />
+            <ProgressSpinner />
           </ProgressDiv>
         )}
 
@@ -110,7 +112,7 @@ const ProfileBreakdown: FC = () => {
       <TableWrapper>
         {!error && !portfolio && (
           <ProgressDiv>
-            <ProgressBar mode="indeterminate" style={{ height: "6px" }} />
+            <ProgressBar mode="indeterminate" style={{ height: "4px" }} />
           </ProgressDiv>
         )}
 

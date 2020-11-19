@@ -7,7 +7,7 @@ function sleep(ms: number) {
 const BaseUrl = process.env.NODE_ENV === "test" ? "http://localhost:3000" : "";
 
 export const fetcher = async (url: string, id: string) => {
-  await sleep(3000);
+  // await sleep(2000);
 
   const data = await fetch(`${BaseUrl}${url}/${id}`);
 

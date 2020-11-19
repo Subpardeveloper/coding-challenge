@@ -4,6 +4,7 @@ import { Column } from "primereact/column";
 import { formatCurrency, formatPercentage } from "../utils/helpers";
 import { Asset } from "../types";
 import "./table.css";
+import styled from "styled-components";
 
 const headerRenderer = (rowData: Asset) => {
   return (
@@ -21,6 +22,16 @@ const weightRenderer = (rowData: Asset) => {
   return formatPercentage(rowData.weight);
 };
 
+const MetaKey = styled.div`
+  text-align: center;
+  width: 100%;
+  font-size: 1rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #495057;
+  padding-bottom: 1rem;
+`;
+
 const Table: FC<{ assets: Asset[] }> = ({ assets }) => {
   let multiSortMeta = [
     { field: "asset_class", order: 1 },
@@ -29,7 +40,9 @@ const Table: FC<{ assets: Asset[] }> = ({ assets }) => {
 
   return (
     <>
-      <p>Hold metakey CTRL to sort multiple columns </p>
+      <MetaKey>
+        Hold CTRL and select desired columns to sort by multiple values
+      </MetaKey>
       <DataTable
         value={assets}
         // removableSort

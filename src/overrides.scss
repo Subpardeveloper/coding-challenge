@@ -2,7 +2,11 @@ $boxShadow: 3px 3px 10px #cfcfcf;
 $zIndex: 2;
 $borderRadius: 10px;
 $backgroundColor: #fff;
-$width: 60%;
+$width: 40%;
+$spinerMarginTop: auto;
+$spinnerMarginBottom: auto;
+$spinnerWidth: 150px;
+$spinnerHeight: 150px;
 
 .p-panelmenu {
   box-shadow: $boxShadow;
@@ -17,4 +21,11 @@ $width: 60%;
 
 .p-progressbar {
   width: $width;
+}
+
+.p-progress-spinner {
+  margin-top: $spinerMarginTop;
+  margin-bottom: $spinnerMarginBottom;
+  width: $spinnerWidth;
+  height: $spinnerHeight;
 }

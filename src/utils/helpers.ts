@@ -1,3 +1,4 @@
+import { stringify } from "querystring";
 import { Asset, PortfolioDetails } from "../types";
 
 export const formatCurrency = (value: number) => {
@@ -17,4 +18,8 @@ export const calculateTotalWealth = (portfolio: PortfolioDetails) => {
   );
 
   return formatCurrency(investmentValue);
+};
+
+export const capitalize = (value: string) => {
+  return value.charAt(0).toUpperCase() + value.slice(1);
 };

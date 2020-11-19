@@ -13,6 +13,7 @@ import { fetcher } from "../utils/fetcher";
 import { groupBy, prop, sum } from "ramda";
 import { SettingsContext, Grouping } from "../utils/context";
 import styled from "styled-components";
+import { capitalize } from "../utils/helpers";
 
 const Wrapper = styled.div`
   display: flex;
@@ -21,6 +22,12 @@ const Wrapper = styled.div`
 const DetailsDiv = styled.div`
   display: flex;
   flex-direction: column;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 2rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #495057;
 `;
 
 const colors = [
@@ -63,7 +70,7 @@ const useGroupBy = (assets: Asset[]) => {
 
 const Graph = () => {
   const { id } = useParams<{ id: string }>();
-  const { data: portfolio, error } = useSWR(["/api/portfolio", id], fetcher);
+  const { data: portfolio } = useSWR(["/api/portfolio", id], fetcher);
 
   const assets: Asset[] = portfolio?.assets;
 
@@ -87,7 +94,7 @@ const Graph = () => {
         series={<BarSeries layout="horizontal" colorScheme={colors} />}
       />
       <DetailsDiv>
-        <span>Asset distribution: {state.groupBy}</span>
+        <span>Asset distribution: {capitalize(state.groupBy)}</span>
         <span>Investor profile: {portfolio.investor_profile}</span>
         <span>Total assets: {portfolio.assets.length}</span>
       </DetailsDiv>
