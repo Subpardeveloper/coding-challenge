@@ -25,9 +25,9 @@ test("triggers groupBy location", async () => {
 
   fireEvent.click(screen.getByText(/Group by Asset Location/i));
 
-  await waitFor(() => screen.getByText(/Asset distribution: location/i));
+  await waitFor(() => screen.getByText(/Asset distribution: Location/i));
 
-  const byLocation = screen.getByText(/Asset distribution: location/i);
+  const byLocation = screen.getByText(/Asset distribution: Location/i);
 
   expect(byLocation).toBeInTheDocument();
 });
@@ -50,9 +50,9 @@ test("triggers groupBy asset class", async () => {
 
   fireEvent.click(screen.getByText(/Group by Asset Class/i));
 
-  await waitFor(() => screen.getByText(/Asset distribution: class/i));
+  await waitFor(() => screen.getByText(/Asset distribution: Class/i));
 
-  const byClass = screen.getByText(/Asset distribution: class/i);
+  const byClass = screen.getByText(/Asset distribution: Class/i);
 
   expect(byClass).toBeInTheDocument();
 });
