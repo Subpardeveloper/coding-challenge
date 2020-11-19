@@ -1,9 +1,11 @@
-import React, { FC } from "react";
+import React from "react";
 import styled from "styled-components";
 
 const WelcomePage = styled.div`
   padding: 3rem 3rem 3rem 3rem;
   background-image: url("page-bkgrd.png");
+  background-repeat: no-repeat;
+  background-color: #fff;
 `;
 
 const WelcomeMessage = styled.div`

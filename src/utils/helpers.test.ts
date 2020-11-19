@@ -1,4 +1,7 @@
 import { calculateTotalWealth } from "./helpers";
+import { formatPercentage } from "./helpers";
+import { formatCurrency } from "./helpers";
+import { capitalize } from "./helpers";
 
 describe("Calculate Total Wealth function", () => {
   test("it should calculate total wealth from assets", () => {
@@ -35,5 +38,32 @@ describe("Calculate Total Wealth function", () => {
     const expectedValue = "$194,000.00";
 
     expect(calculateTotalWealth(portfolio)).toEqual(expectedValue);
+  });
+});
+
+describe("Format Number to Percentage function", () => {
+  test("It should format number to percentage with 2 decimal point values, convert it to string and add % at the end", () => {
+    const value = 1.43374;
+    const expectedValue = "143.37%";
+
+    expect(formatPercentage(value)).toEqual(expectedValue);
+  });
+});
+
+describe("Format Number to Currency function", () => {
+  test("It should format number to a string representing currency value in USD", () => {
+    const value = 97060.5;
+    const expectedValue = "$97,060.50";
+
+    expect(formatCurrency(value)).toEqual(expectedValue);
+  });
+});
+
+describe("Format String to be Capitalized", () => {
+  test("It should capitalize the first letter of a string", () => {
+    const value = "jason";
+    const expectedValue = "Jason";
+
+    expect(capitalize(value)).toEqual(expectedValue);
   });
 });

@@ -1,4 +1,4 @@
-import React, { FC, useContext } from "react";
+import React, { FC } from "react";
 import { PanelMenu } from "primereact/panelmenu";
 import useSWR from "swr";
 import { useHistory } from "react-router-dom";
@@ -8,7 +8,7 @@ import { Portfolio } from "../types";
 const Sidebar: FC = () => {
   const history = useHistory();
 
-  const { data: portfolios, error } = useSWR<Portfolio>("/api/users");
+  const { data: portfolios } = useSWR<Portfolio>("/api/users");
 
   const portfolioList = portfolios
     ? Object.keys(portfolios).map((key: string) => ({

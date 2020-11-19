@@ -1,8 +1,6 @@
-import React, { FC, useContext } from "react";
+import React, { useContext } from "react";
 import { Menubar } from "primereact/menubar";
-import { InputText } from "primereact/inputtext";
 import { SettingsContext, Grouping } from "../utils/context";
-import styled from "styled-components";
 
 const ActionsMenu = () => {
   const [state, dispatch] = useContext(SettingsContext);

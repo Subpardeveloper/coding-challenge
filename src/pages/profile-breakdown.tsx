@@ -15,6 +15,8 @@ const Wrapper = styled.div`
   flex-direction: column;
   padding: 3rem;
   background-image: url("../page-bkgrd.png");
+  background-repeat: no-repeat;
+  background-color: #fff;
 `;
 
 const TableWrapper = styled.div`
